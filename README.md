@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./raymond-zhang.svg" alt="Raymond Zhang" width="520">
+<sub>Raymond Zhang</sub>
 
-Designer
+<sub>Designer</sub>
 
-[www.ray-mnd.com](https://www.ray-mnd.com/)
+<sub><a href="https://www.ray-mnd.com/">www.ray-mnd.com</a></sub>
 
 </div>
